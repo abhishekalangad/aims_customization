@@ -249,7 +249,9 @@ after_migrate = [
     "aims_customization.patches.v_0.add_short_close_field_on_lead.execute",
     "aims_customization.patches.v_0.add_rejection_details_field_on_quotation.execute",
     "aims_customization.patches.v_0.add_field_customer_approval_email_on_quotation.execute",
-    "aims_customization.patches.v_0.add_customer_po_attachment_field_on_sales_order.execute"
+    "aims_customization.patches.v_0.add_customer_po_attachment_field_on_sales_order.execute",
+    "aims_customization.patches.v_0.add_short_close_reason_field.execute",
+    
     
     
 ]
@@ -263,6 +265,7 @@ doctype_js = {
     
     
     
+    
 }
 
 
@@ -273,7 +276,13 @@ doc_events = {
 
     },
     "Quotation": {
-        "validate": "aims_customization.api.rejection_detail_mandatory_when_customer_rejected.validate_rejection_details"
+       
+        
+        "validate": "aims_customization.api.before_quote_reject_mandatory_rejection_detail.validate_quotation_workflow"
+    },
+    "Sales Order": {
+        "validate": "aims_customization.api.short_close_reason_mandatory_when_sales_order_rejected.validate_rejection_details"
     }
+
     
 }
