@@ -1,0 +1,1166 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-08-26 11:36:31.757442",
+  "name": "Marketing Executive",
+  "role_profile": "Marketing Executive",
+  "roles": [
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Analytics"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Customer"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Employee"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Marketing Executive"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Translator"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Marketing Executive",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Workspace Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-08-29 10:21:16.716799",
+  "name": "Design HOD",
+  "role_profile": "Design HOD",
+  "roles": [
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Analytics"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Customer"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Design HOD"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Employee"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Translator"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Design HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Workspace Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-08-29 10:21:40.026138",
+  "name": "Business HOD",
+  "role_profile": "Business HOD",
+  "roles": [
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Analytics"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Business HOD"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Customer"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Employee"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Translator"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Business HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Workspace Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-08-29 10:22:39.208989",
+  "name": "Marketing Manager/HOD",
+  "role_profile": "Marketing Manager/HOD",
+  "roles": [
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Analytics"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Customer"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Employee"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Marketing Manager/HOD"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Supplier"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Translator"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Marketing Manager/HOD",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Workspace Manager"
+   }
+  ]
+ }
+]

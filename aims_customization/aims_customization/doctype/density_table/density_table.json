@@ -1,0 +1,46 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-09-02 13:17:00.585467",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "material_type",
+  "column_break_ivgp",
+  "density_kgmm3"
+ ],
+ "fields": [
+  {
+   "fieldname": "material_type",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Material Type",
+   "options": "\nSteel\nAluminium\nBrass\nCopper"
+  },
+  {
+   "fieldname": "column_break_ivgp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "density_kgmm3",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Density (kg/mm3)"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-09-02 13:23:40.410736",
+ "modified_by": "Administrator",
+ "module": "Aims Customization",
+ "name": "Density Table",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

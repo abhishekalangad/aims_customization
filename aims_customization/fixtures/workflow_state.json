@@ -1,0 +1,182 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:21:45.429693",
+  "name": "No",
+  "style": "",
+  "workflow_state_name": "No"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:24:22.429798",
+  "name": "Feasibility Approved",
+  "style": "",
+  "workflow_state_name": "Feasibility Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:25:34.516140",
+  "name": "Quotation Approve",
+  "style": "",
+  "workflow_state_name": "Quotation Approve"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-31 20:34:18.990762",
+  "name": "Customer Approval Pending",
+  "style": "",
+  "workflow_state_name": "Customer Approval Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "question-sign",
+  "modified": "2025-08-19 10:39:52.424195",
+  "name": "Pending",
+  "style": "",
+  "workflow_state_name": "Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "ok-sign",
+  "modified": "2025-08-19 10:39:52.425251",
+  "name": "Approved",
+  "style": "Success",
+  "workflow_state_name": "Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "remove",
+  "modified": "2025-08-19 10:39:52.426645",
+  "name": "Rejected",
+  "style": "Danger",
+  "workflow_state_name": "Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-21 10:08:09.479756",
+  "name": "Closed",
+  "style": "",
+  "workflow_state_name": "Closed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-21 10:07:56.082064",
+  "name": "Submit",
+  "style": "",
+  "workflow_state_name": "Submit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:40:29.657311",
+  "name": "Customer Rejected",
+  "style": "",
+  "workflow_state_name": "Customer Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-21 10:07:42.565539",
+  "name": "Draft",
+  "style": "",
+  "workflow_state_name": "Draft"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:36:32.056872",
+  "name": "Customer Approved",
+  "style": "",
+  "workflow_state_name": "Customer Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:40:15.688073",
+  "name": "Customer Reject",
+  "style": "",
+  "workflow_state_name": "Customer Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 12:35:15.748737",
+  "name": "Feasibility Check Ok ?",
+  "style": "",
+  "workflow_state_name": "Feasibility Check Ok ?"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:29:30.506768",
+  "name": "Quotation Rejected",
+  "style": "",
+  "workflow_state_name": "Quotation Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:31:56.082656",
+  "name": "Design Feasibility Approved",
+  "style": "",
+  "workflow_state_name": "Design Feasibility Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 15:24:47.270189",
+  "name": "Quotation Approved",
+  "style": "",
+  "workflow_state_name": "Quotation Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 13:46:22.935902",
+  "name": "Design Feasibility Check",
+  "style": "",
+  "workflow_state_name": "Design Feasibility Check"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 13:47:43.883215",
+  "name": "Customer Approval",
+  "style": "",
+  "workflow_state_name": "Customer Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-28 13:43:56.774588",
+  "name": "Pending for approval",
+  "style": "",
+  "workflow_state_name": "Pending for approval"
+ }
+]

@@ -251,6 +251,10 @@ after_migrate = [
     "aims_customization.patches.v_0.add_field_customer_approval_email_on_quotation.execute",
     "aims_customization.patches.v_0.add_customer_po_attachment_field_on_sales_order.execute",
     "aims_customization.patches.v_0.add_short_close_reason_field.execute",
+    "aims_customization.patches.v_0.add_mould_details_tab_on_item.execute",
+    # "aims_customization.patches.v_0.dia_field_mandatory_when_item_group_toolroolrm_round.execute"
+
+    
     
     
     
@@ -286,3 +290,29 @@ doc_events = {
 
     
 }
+
+
+fixtures = [
+    "Workflow", "Workflow State", "Workflow Action",
+    {
+        "doctype": "Role",
+        "filters": [
+            ["role_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    },
+    {
+        "doctype": "Role Profile",
+        "filters": [
+            ["role_profile", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    },
+    {
+        "doctype": "Module Profile",
+        "filters": [
+            ["module_profile_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    }
+
+
+]
+

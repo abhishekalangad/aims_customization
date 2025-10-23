@@ -1,0 +1,6491 @@
+[
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:05:37.207899",
+  "name": "62sbj401e3",
+  "permitted_roles": [
+   {
+    "parent": "62sbj401e3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:05:50.757011",
+  "name": "673r1bcau8",
+  "permitted_roles": [
+   {
+    "parent": "673r1bcau8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/34",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:05:53.624197",
+  "name": "6800qe7rgl",
+  "permitted_roles": [
+   {
+    "parent": "6800qe7rgl",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/34",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:29:10.633610",
+  "name": "jsiehs2sll",
+  "permitted_roles": [
+   {
+    "parent": "jsiehs2sll",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:29:19.516901",
+  "name": "jvbgnrch8f",
+  "permitted_roles": [
+   {
+    "parent": "jvbgnrch8f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/35",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:29:22.076420",
+  "name": "k04gkr5lhu",
+  "permitted_roles": [
+   {
+    "parent": "k04gkr5lhu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/35",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:29:47.212603",
+  "name": "k80kukemf4",
+  "permitted_roles": [
+   {
+    "parent": "k80kukemf4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/36",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:29:50.902710",
+  "name": "k954dnvrmp",
+  "permitted_roles": [
+   {
+    "parent": "k954dnvrmp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/36",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:31:49.969909",
+  "name": "lebp6ei63b",
+  "permitted_roles": [
+   {
+    "parent": "lebp6ei63b",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:31:55.857984",
+  "name": "lg6kdb8h47",
+  "permitted_roles": [
+   {
+    "parent": "lg6kdb8h47",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/37",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 17:31:57.811748",
+  "name": "lgqervmc82",
+  "permitted_roles": [
+   {
+    "parent": "lgqervmc82",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/37",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:08:05.000188",
+  "name": "am2327s7dc",
+  "permitted_roles": [
+   {
+    "parent": "am2327s7dc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:08:14.430838",
+  "name": "ap0dk5k3rv",
+  "permitted_roles": [
+   {
+    "parent": "ap0dk5k3rv",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/38",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:08:18.999976",
+  "name": "aqe65r8mk8",
+  "permitted_roles": [
+   {
+    "parent": "aqe65r8mk8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/38",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:08:53.060439",
+  "name": "b52vq1fj7n",
+  "permitted_roles": [
+   {
+    "parent": "b52vq1fj7n",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:18:08.910241",
+  "name": "gip1u3eefh",
+  "permitted_roles": [
+   {
+    "parent": "gip1u3eefh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00023",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:18:16.882331",
+  "name": "gl9pd5cer1",
+  "permitted_roles": [
+   {
+    "parent": "gl9pd5cer1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/39",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:18:21.083244",
+  "name": "gmjnaiul0t",
+  "permitted_roles": [
+   {
+    "parent": "gmjnaiul0t",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/39",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:18:33.828588",
+  "name": "gqiqpql554",
+  "permitted_roles": [
+   {
+    "parent": "gqiqpql554",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00023",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:22:22.972759",
+  "name": "j25ev0qf99",
+  "permitted_roles": [
+   {
+    "parent": "j25ev0qf99",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00024",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:22:32.067145",
+  "name": "j50e2r0a1p",
+  "permitted_roles": [
+   {
+    "parent": "j50e2r0a1p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/40",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:22:36.482712",
+  "name": "j6df6c93i0",
+  "permitted_roles": [
+   {
+    "parent": "j6df6c93i0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/40",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:22:47.188510",
+  "name": "j9nae79asf",
+  "permitted_roles": [
+   {
+    "parent": "j9nae79asf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00024",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:28:50.039407",
+  "name": "mr451meejc",
+  "permitted_roles": [
+   {
+    "parent": "mr451meejc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:28:53.485107",
+  "name": "ms6v7daf37",
+  "permitted_roles": [
+   {
+    "parent": "ms6v7daf37",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/41",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:28:57.040507",
+  "name": "mtajnhjdug",
+  "permitted_roles": [
+   {
+    "parent": "mtajnhjdug",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/41",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:29:02.739464",
+  "name": "mv3be7ugd6",
+  "permitted_roles": [
+   {
+    "parent": "mv3be7ugd6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00025",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 18:48:21.391688",
+  "name": "296hv8k86h",
+  "permitted_roles": [
+   {
+    "parent": "296hv8k86h",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:07:18.633409",
+  "name": "q0iflhihm1",
+  "permitted_roles": [
+   {
+    "parent": "q0iflhihm1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:07:31.680526",
+  "name": "q4kvq4eu0l",
+  "permitted_roles": [
+   {
+    "parent": "q4kvq4eu0l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/45",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:07:35.684262",
+  "name": "q5sfacemj8",
+  "permitted_roles": [
+   {
+    "parent": "q5sfacemj8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/45",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:07:47.320485",
+  "name": "q9h4ot0dcc",
+  "permitted_roles": [
+   {
+    "parent": "q9h4ot0dcc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:17:55.422438",
+  "name": "07i58su25f",
+  "permitted_roles": [
+   {
+    "parent": "07i58su25f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:19:58.050882",
+  "name": "1ds8bq1ar2",
+  "permitted_roles": [
+   {
+    "parent": "1ds8bq1ar2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/48",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:20:02.761528",
+  "name": "1fbbjfth4d",
+  "permitted_roles": [
+   {
+    "parent": "1fbbjfth4d",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/48",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:26:09.686859",
+  "name": "521opkc2nm",
+  "permitted_roles": [
+   {
+    "parent": "521opkc2nm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:26:16.487320",
+  "name": "544hdvkc43",
+  "permitted_roles": [
+   {
+    "parent": "544hdvkc43",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/49",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:26:19.801047",
+  "name": "556hjc4s6e",
+  "permitted_roles": [
+   {
+    "parent": "556hjc4s6e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/49",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:26:41.986536",
+  "name": "5c4l0jr1lm",
+  "permitted_roles": [
+   {
+    "parent": "5c4l0jr1lm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00029",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:47:33.485154",
+  "name": "hj6fpjj531",
+  "permitted_roles": [
+   {
+    "parent": "hj6fpjj531",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00030",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:57:10.579374",
+  "name": "n7hoc8ia6a",
+  "permitted_roles": [
+   {
+    "parent": "n7hoc8ia6a",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:57:19.706860",
+  "name": "nadr6n354a",
+  "permitted_roles": [
+   {
+    "parent": "nadr6n354a",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/50",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:57:23.461409",
+  "name": "nbin2ou5u7",
+  "permitted_roles": [
+   {
+    "parent": "nbin2ou5u7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/50",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:57:42.346499",
+  "name": "nhf696bqsf",
+  "permitted_roles": [
+   {
+    "parent": "nhf696bqsf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/51",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 23:57:45.904533",
+  "name": "nij6lubv7m",
+  "permitted_roles": [
+   {
+    "parent": "nij6lubv7m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/51",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 00:02:14.486588",
+  "name": "q6g35p24br",
+  "permitted_roles": [
+   {
+    "parent": "q6g35p24br",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00026",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 09:58:36.762350",
+  "name": "3cfm7lrp7m",
+  "permitted_roles": [
+   {
+    "parent": "3cfm7lrp7m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00032",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:10:27.013757",
+  "name": "aaejioi43v",
+  "permitted_roles": [
+   {
+    "parent": "aaejioi43v",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00033",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:14:22.095342",
+  "name": "cjt3dchra9",
+  "permitted_roles": [
+   {
+    "parent": "cjt3dchra9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/52",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:14:24.921720",
+  "name": "ckpr0ubunk",
+  "permitted_roles": [
+   {
+    "parent": "ckpr0ubunk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/52",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:15:08.485672",
+  "name": "d2cefrtd50",
+  "permitted_roles": [
+   {
+    "parent": "d2cefrtd50",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00033",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:18:39.361037",
+  "name": "f497b6gjib",
+  "permitted_roles": [
+   {
+    "parent": "f497b6gjib",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:18:52.642948",
+  "name": "f8e4762i7a",
+  "permitted_roles": [
+   {
+    "parent": "f8e4762i7a",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/53",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:18:56.928482",
+  "name": "f9pkkpbfa5",
+  "permitted_roles": [
+   {
+    "parent": "f9pkkpbfa5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/53",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:25:34.924338",
+  "name": "j65m2jmemr",
+  "permitted_roles": [
+   {
+    "parent": "j65m2jmemr",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/54",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:25:39.983162",
+  "name": "j7ns92g4ia",
+  "permitted_roles": [
+   {
+    "parent": "j7ns92g4ia",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/54",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:29:29.177494",
+  "name": "lfb7fcoijn",
+  "permitted_roles": [
+   {
+    "parent": "lfb7fcoijn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00035",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:29:44.345820",
+  "name": "lk3dihjlk0",
+  "permitted_roles": [
+   {
+    "parent": "lk3dihjlk0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/55",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:37:01.383480",
+  "name": "psljfsi4eo",
+  "permitted_roles": [
+   {
+    "parent": "psljfsi4eo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00036",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:37:09.939671",
+  "name": "pvb9aed71e",
+  "permitted_roles": [
+   {
+    "parent": "pvb9aed71e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/56",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 10:37:12.410066",
+  "name": "q04rm9lhmk",
+  "permitted_roles": [
+   {
+    "parent": "q04rm9lhmk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/56",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 11:05:57.421801",
+  "name": "ar6icgthe6",
+  "permitted_roles": [
+   {
+    "parent": "ar6icgthe6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00037",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 12:35:28.424352",
+  "name": "v9kac7o04b",
+  "permitted_roles": [
+   {
+    "parent": "v9kac7o04b",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/57",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 12:35:31.984445",
+  "name": "vanpkpfb8p",
+  "permitted_roles": [
+   {
+    "parent": "vanpkpfb8p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/57",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 12:51:00.298869",
+  "name": "8crg7dbu3o",
+  "permitted_roles": [
+   {
+    "parent": "8crg7dbu3o",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00038",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 12:51:47.230441",
+  "name": "8rge1cs9se",
+  "permitted_roles": [
+   {
+    "parent": "8rge1cs9se",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/58",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 12:52:01.248176",
+  "name": "8vsfk08f6k",
+  "permitted_roles": [
+   {
+    "parent": "8vsfk08f6k",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00038",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:17:30.175142",
+  "name": "ntl6n42757",
+  "permitted_roles": [
+   {
+    "parent": "ntl6n42757",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00039",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:17:49.870157",
+  "name": "o3qmor0159",
+  "permitted_roles": [
+   {
+    "parent": "o3qmor0159",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/59",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:17:53.403597",
+  "name": "o4unl31bic",
+  "permitted_roles": [
+   {
+    "parent": "o4unl31bic",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/59",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:19:23.008022",
+  "name": "p0uu17s0dp",
+  "permitted_roles": [
+   {
+    "parent": "p0uu17s0dp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00035",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:21:15.725731",
+  "name": "q457ndlt78",
+  "permitted_roles": [
+   {
+    "parent": "q457ndlt78",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00040",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:21:45.657073",
+  "name": "qdgjb3n6m7",
+  "permitted_roles": [
+   {
+    "parent": "qdgjb3n6m7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/60",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:21:52.711929",
+  "name": "qfn6nlhjbm",
+  "permitted_roles": [
+   {
+    "parent": "qfn6nlhjbm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00040",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:24:19.828321",
+  "name": "rtmd7ism2s",
+  "permitted_roles": [
+   {
+    "parent": "rtmd7ism2s",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00041",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:24:30.991239",
+  "name": "s16imv2itc",
+  "permitted_roles": [
+   {
+    "parent": "s16imv2itc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/61",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:24:33.806537",
+  "name": "s22nh4avlp",
+  "permitted_roles": [
+   {
+    "parent": "s22nh4avlp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/61",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 13:24:42.274947",
+  "name": "s4nlb5m1j7",
+  "permitted_roles": [
+   {
+    "parent": "s4nlb5m1j7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00041",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:05:17.553028",
+  "name": "n2n8a1cjrc",
+  "permitted_roles": [
+   {
+    "parent": "n2n8a1cjrc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:05:19.464943",
+  "name": "n3abkbh30f",
+  "permitted_roles": [
+   {
+    "parent": "n3abkbh30f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:05:21.565340",
+  "name": "n3vlfrvr3u",
+  "permitted_roles": [
+   {
+    "parent": "n3vlfrvr3u",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   },
+   {
+    "parent": "n3vlfrvr3u",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00002",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:08:07.365725",
+  "name": "onp7qhnl9t",
+  "permitted_roles": [
+   {
+    "parent": "onp7qhnl9t",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00003",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:08:09.593566",
+  "name": "oof6dh5m7u",
+  "permitted_roles": [
+   {
+    "parent": "oof6dh5m7u",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00003",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:08:14.273650",
+  "name": "opuiui5m2l",
+  "permitted_roles": [
+   {
+    "parent": "opuiui5m2l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   },
+   {
+    "parent": "opuiui5m2l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00003",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Approved"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:08:23.018965",
+  "name": "osmj3dn3lb",
+  "permitted_roles": [
+   {
+    "parent": "osmj3dn3lb",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00003",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:08:32.517956",
+  "name": "ovl8scj0g7",
+  "permitted_roles": [
+   {
+    "parent": "ovl8scj0g7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00003",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:17:25.289501",
+  "name": "u64m4c157r",
+  "permitted_roles": [
+   {
+    "parent": "u64m4c157r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00004",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:17:27.933420",
+  "name": "u6vhfks01m",
+  "permitted_roles": [
+   {
+    "parent": "u6vhfks01m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00004",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:22:47.767241",
+  "name": "1atijq2q8r",
+  "permitted_roles": [
+   {
+    "parent": "1atijq2q8r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   },
+   {
+    "parent": "1atijq2q8r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00004",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Approved"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:23:20.066394",
+  "name": "1l0t0tn7l9",
+  "permitted_roles": [
+   {
+    "parent": "1l0t0tn7l9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00004",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:27:02.850930",
+  "name": "3qkahpri55",
+  "permitted_roles": [
+   {
+    "parent": "3qkahpri55",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00004",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:31:09.112221",
+  "name": "67jpg8mg7f",
+  "permitted_roles": [
+   {
+    "parent": "67jpg8mg7f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:31:13.073614",
+  "name": "68qq52mme9",
+  "permitted_roles": [
+   {
+    "parent": "68qq52mme9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:31:17.451322",
+  "name": "6a6qk2b0fv",
+  "permitted_roles": [
+   {
+    "parent": "6a6qk2b0fv",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:34:46.120571",
+  "name": "8bdo3oe9os",
+  "permitted_roles": [
+   {
+    "parent": "8bdo3oe9os",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:45:30.699279",
+  "name": "ekr4h82nrq",
+  "permitted_roles": [
+   {
+    "parent": "ekr4h82nrq",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:45:33.648969",
+  "name": "elo4d5h0p1",
+  "permitted_roles": [
+   {
+    "parent": "elo4d5h0p1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:45:36.937023",
+  "name": "emp1frd6lm",
+  "permitted_roles": [
+   {
+    "parent": "emp1frd6lm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:45:40.751818",
+  "name": "envl17d9vu",
+  "permitted_roles": [
+   {
+    "parent": "envl17d9vu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:45:44.562438",
+  "name": "ep53cb4l5f",
+  "permitted_roles": [
+   {
+    "parent": "ep53cb4l5f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:46:41.399438",
+  "name": "faueli4kvr",
+  "permitted_roles": [
+   {
+    "parent": "faueli4kvr",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:46:55.993232",
+  "name": "fffb3n47ok",
+  "permitted_roles": [
+   {
+    "parent": "fffb3n47ok",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:46:57.620891",
+  "name": "fg0gn27a5f",
+  "permitted_roles": [
+   {
+    "parent": "fg0gn27a5f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:46:59.478773",
+  "name": "fgiectd6ct",
+  "permitted_roles": [
+   {
+    "parent": "fgiectd6ct",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:47:01.889731",
+  "name": "fhaunh01n3",
+  "permitted_roles": [
+   {
+    "parent": "fhaunh01n3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:47:05.973923",
+  "name": "fijvdh902e",
+  "permitted_roles": [
+   {
+    "parent": "fijvdh902e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:47:08.754817",
+  "name": "fjfn8tc8vg",
+  "permitted_roles": [
+   {
+    "parent": "fjfn8tc8vg",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:54:58.845979",
+  "name": "k6c1p13dvd",
+  "permitted_roles": [
+   {
+    "parent": "k6c1p13dvd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:55:01.131077",
+  "name": "k7348qqjmu",
+  "permitted_roles": [
+   {
+    "parent": "k7348qqjmu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:55:03.135262",
+  "name": "k7n4a6li1e",
+  "permitted_roles": [
+   {
+    "parent": "k7n4a6li1e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:55:05.049052",
+  "name": "k8arndea63",
+  "permitted_roles": [
+   {
+    "parent": "k8arndea63",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:55:06.994505",
+  "name": "k8usin0401",
+  "permitted_roles": [
+   {
+    "parent": "k8usin0401",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 15:55:09.525761",
+  "name": "k9n4g0ivua",
+  "permitted_roles": [
+   {
+    "parent": "k9n4g0ivua",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:08:59.906126",
+  "name": "sd7cbg27s1",
+  "permitted_roles": [
+   {
+    "parent": "sd7cbg27s1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:09:03.101443",
+  "name": "se778tmmnp",
+  "permitted_roles": [
+   {
+    "parent": "se778tmmnp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:10:38.767303",
+  "name": "tc3e0uqn6c",
+  "permitted_roles": [
+   {
+    "parent": "tc3e0uqn6c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:12:50.307466",
+  "name": "ul7lmsqmd3",
+  "permitted_roles": [
+   {
+    "parent": "ul7lmsqmd3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:13:34.254122",
+  "name": "v2uu07kor0",
+  "permitted_roles": [
+   {
+    "parent": "v2uu07kor0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:13:37.873296",
+  "name": "v42vl9b6cm",
+  "permitted_roles": [
+   {
+    "parent": "v42vl9b6cm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:24:22.466739",
+  "name": "5dgv4r3599",
+  "permitted_roles": [
+   {
+    "parent": "5dgv4r3599",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:24:29.963488",
+  "name": "5frf8hk6t6",
+  "permitted_roles": [
+   {
+    "parent": "5frf8hk6t6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:24:41.995896",
+  "name": "5jkh6ocjvj",
+  "permitted_roles": [
+   {
+    "parent": "5jkh6ocjvj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:25:51.551849",
+  "name": "69b5s4ock5",
+  "permitted_roles": [
+   {
+    "parent": "69b5s4ock5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:26:05.420055",
+  "name": "6dmabslpnm",
+  "permitted_roles": [
+   {
+    "parent": "6dmabslpnm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:26:08.605348",
+  "name": "6emc32soe4",
+  "permitted_roles": [
+   {
+    "parent": "6emc32soe4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:32:39.844463",
+  "name": "a8ugbgenms",
+  "permitted_roles": [
+   {
+    "parent": "a8ugbgenms",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 16:32:43.258548",
+  "name": "aa0dojshob",
+  "permitted_roles": [
+   {
+    "parent": "aa0dojshob",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 17:00:54.024420",
+  "name": "qqckg41n8l",
+  "permitted_roles": [
+   {
+    "parent": "qqckg41n8l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 17:00:59.885862",
+  "name": "qs6j793go0",
+  "permitted_roles": [
+   {
+    "parent": "qs6j793go0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:30:43.991749",
+  "name": "fendo4imi1",
+  "permitted_roles": [
+   {
+    "parent": "fendo4imi1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:30:46.308594",
+  "name": "ffflme778m",
+  "permitted_roles": [
+   {
+    "parent": "ffflme778m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:30:49.329120",
+  "name": "fgddbisti4",
+  "permitted_roles": [
+   {
+    "parent": "fgddbisti4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:30:53.350071",
+  "name": "fhlkth26g3",
+  "permitted_roles": [
+   {
+    "parent": "fhlkth26g3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:32:54.396785",
+  "name": "gng3doclbk",
+  "permitted_roles": [
+   {
+    "parent": "gng3doclbk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:32:56.921852",
+  "name": "go9feec2qo",
+  "permitted_roles": [
+   {
+    "parent": "go9feec2qo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:32:59.005245",
+  "name": "gouub0f5ku",
+  "permitted_roles": [
+   {
+    "parent": "gouub0f5ku",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:33:01.390013",
+  "name": "gpld3d7aul",
+  "permitted_roles": [
+   {
+    "parent": "gpld3d7aul",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:33:04.061080",
+  "name": "gqgccpdghb",
+  "permitted_roles": [
+   {
+    "parent": "gqgccpdghb",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:33:06.507370",
+  "name": "gr932let05",
+  "permitted_roles": [
+   {
+    "parent": "gr932let05",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:34:04.766158",
+  "name": "hdf1qgbqjt",
+  "permitted_roles": [
+   {
+    "parent": "hdf1qgbqjt",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:34:07.039971",
+  "name": "he65fleoj5",
+  "permitted_roles": [
+   {
+    "parent": "he65fleoj5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:34:09.466408",
+  "name": "heupvbufav",
+  "permitted_roles": [
+   {
+    "parent": "heupvbufav",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:34:11.990661",
+  "name": "hfnjmcilaa",
+  "permitted_roles": [
+   {
+    "parent": "hfnjmcilaa",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:20.618832",
+  "name": "inu0t3va36",
+  "permitted_roles": [
+   {
+    "parent": "inu0t3va36",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:25.365548",
+  "name": "ipe1172fbe",
+  "permitted_roles": [
+   {
+    "parent": "ipe1172fbe",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:28.460335",
+  "name": "iqcq0op209",
+  "permitted_roles": [
+   {
+    "parent": "iqcq0op209",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:30.879252",
+  "name": "ir4uoaqrl1",
+  "permitted_roles": [
+   {
+    "parent": "ir4uoaqrl1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:33.846733",
+  "name": "is2gsb0q2l",
+  "permitted_roles": [
+   {
+    "parent": "is2gsb0q2l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:36:35.902328",
+  "name": "isn762dvm4",
+  "permitted_roles": [
+   {
+    "parent": "isn762dvm4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:23.090355",
+  "name": "ju7kihntk0",
+  "permitted_roles": [
+   {
+    "parent": "ju7kihntk0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:26.205672",
+  "name": "jv632bc5qs",
+  "permitted_roles": [
+   {
+    "parent": "jv632bc5qs",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:28.616776",
+  "name": "jvutc65uhj",
+  "permitted_roles": [
+   {
+    "parent": "jvutc65uhj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:30.769502",
+  "name": "k0jm2f48h1",
+  "permitted_roles": [
+   {
+    "parent": "k0jm2f48h1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:35.076405",
+  "name": "k1u2t32kk9",
+  "permitted_roles": [
+   {
+    "parent": "k1u2t32kk9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:38:37.133491",
+  "name": "k2jb2tkvuo",
+  "permitted_roles": [
+   {
+    "parent": "k2jb2tkvuo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:40:39.105995",
+  "name": "l8nsk671dq",
+  "permitted_roles": [
+   {
+    "parent": "l8nsk671dq",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:44:20.188378",
+  "name": "ndq78proqt",
+  "permitted_roles": [
+   {
+    "parent": "ndq78proqt",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:44:22.777534",
+  "name": "nej9haigc5",
+  "permitted_roles": [
+   {
+    "parent": "nej9haigc5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:44:27.114946",
+  "name": "nfv7p4ra8m",
+  "permitted_roles": [
+   {
+    "parent": "nfv7p4ra8m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:44:29.334845",
+  "name": "nglfa6bql5",
+  "permitted_roles": [
+   {
+    "parent": "nglfa6bql5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 18:44:34.676296",
+  "name": "niannm6sa2",
+  "permitted_roles": [
+   {
+    "parent": "niannm6sa2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:02.173279",
+  "name": "brtbkom9hj",
+  "permitted_roles": [
+   {
+    "parent": "brtbkom9hj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:04.912336",
+  "name": "bspu4169dn",
+  "permitted_roles": [
+   {
+    "parent": "bspu4169dn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:07.985663",
+  "name": "btoobqfk99",
+  "permitted_roles": [
+   {
+    "parent": "btoobqfk99",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:11.860169",
+  "name": "buu39scllk",
+  "permitted_roles": [
+   {
+    "parent": "buu39scllk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:45.641882",
+  "name": "c9gu6dsnpf",
+  "permitted_roles": [
+   {
+    "parent": "c9gu6dsnpf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 09:53:57.958375",
+  "name": "cdb4pfb9fj",
+  "permitted_roles": [
+   {
+    "parent": "cdb4pfb9fj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00015-2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:01:55.164807",
+  "name": "h2f9ls7jsr",
+  "permitted_roles": [
+   {
+    "parent": "h2f9ls7jsr",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:01:58.701925",
+  "name": "h3jclodsdh",
+  "permitted_roles": [
+   {
+    "parent": "h3jclodsdh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:01.549069",
+  "name": "h4f8k35id6",
+  "permitted_roles": [
+   {
+    "parent": "h4f8k35id6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:04.296845",
+  "name": "h5bjiuc38l",
+  "permitted_roles": [
+   {
+    "parent": "h5bjiuc38l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:06.919319",
+  "name": "h65mqfuv0o",
+  "permitted_roles": [
+   {
+    "parent": "h65mqfuv0o",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:08.167692",
+  "name": "h6h43jhfdo",
+  "permitted_roles": [
+   {
+    "parent": "h6h43jhfdo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00016",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:37.390560",
+  "name": "hfmhpmrj8l",
+  "permitted_roles": [
+   {
+    "parent": "hfmhpmrj8l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:40.325138",
+  "name": "hgj6oerkku",
+  "permitted_roles": [
+   {
+    "parent": "hgj6oerkku",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:47.521513",
+  "name": "hir2elmc5a",
+  "permitted_roles": [
+   {
+    "parent": "hir2elmc5a",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:50.027459",
+  "name": "hjkusp7586",
+  "permitted_roles": [
+   {
+    "parent": "hjkusp7586",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:53.139444",
+  "name": "hkj03v101i",
+  "permitted_roles": [
+   {
+    "parent": "hkj03v101i",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:02:54.932440",
+  "name": "hl5895o3ps",
+  "permitted_roles": [
+   {
+    "parent": "hl5895o3ps",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:26.504568",
+  "name": "ksppshejec",
+  "permitted_roles": [
+   {
+    "parent": "ksppshejec",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00018",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:29.663200",
+  "name": "ktoso5li9a",
+  "permitted_roles": [
+   {
+    "parent": "ktoso5li9a",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00018",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:46.584552",
+  "name": "l31ijdsekn",
+  "permitted_roles": [
+   {
+    "parent": "l31ijdsekn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:49.138066",
+  "name": "l3r1fvbi1r",
+  "permitted_roles": [
+   {
+    "parent": "l3r1fvbi1r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:51.781022",
+  "name": "l4lfl65du6",
+  "permitted_roles": [
+   {
+    "parent": "l4lfl65du6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:53.913696",
+  "name": "l5bo2ja04g",
+  "permitted_roles": [
+   {
+    "parent": "l5bo2ja04g",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:56.434208",
+  "name": "l64sijh89f",
+  "permitted_roles": [
+   {
+    "parent": "l64sijh89f",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:08:58.330958",
+  "name": "l6nedlbj6c",
+  "permitted_roles": [
+   {
+    "parent": "l6nedlbj6c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00019",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:29.146398",
+  "name": "n8j0jielvf",
+  "permitted_roles": [
+   {
+    "parent": "n8j0jielvf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:32.014201",
+  "name": "n9gsdk2mko",
+  "permitted_roles": [
+   {
+    "parent": "n9gsdk2mko",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:34.324462",
+  "name": "na7dnsafa7",
+  "permitted_roles": [
+   {
+    "parent": "na7dnsafa7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:36.712192",
+  "name": "navkaf01dl",
+  "permitted_roles": [
+   {
+    "parent": "navkaf01dl",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:40.214371",
+  "name": "nc27vm1sj1",
+  "permitted_roles": [
+   {
+    "parent": "nc27vm1sj1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:12:43.454135",
+  "name": "nd26d3fo5t",
+  "permitted_roles": [
+   {
+    "parent": "nd26d3fo5t",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00020",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:04.310580",
+  "name": "op3msfrra9",
+  "permitted_roles": [
+   {
+    "parent": "op3msfrra9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:07.363954",
+  "name": "oq19q62204",
+  "permitted_roles": [
+   {
+    "parent": "oq19q62204",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:12.119149",
+  "name": "orhp1pc0a7",
+  "permitted_roles": [
+   {
+    "parent": "orhp1pc0a7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:15.563386",
+  "name": "osjvm6atl5",
+  "permitted_roles": [
+   {
+    "parent": "osjvm6atl5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:18.907089",
+  "name": "otl34f2kkd",
+  "permitted_roles": [
+   {
+    "parent": "otl34f2kkd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 10:15:21.919513",
+  "name": "oujhe3nfq1",
+  "permitted_roles": [
+   {
+    "parent": "oujhe3nfq1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:26:46.107589",
+  "name": "2pdakmb7m4",
+  "permitted_roles": [
+   {
+    "parent": "2pdakmb7m4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:27:01.713042",
+  "name": "2u9s19ltvm",
+  "permitted_roles": [
+   {
+    "parent": "2u9s19ltvm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:29:30.240424",
+  "name": "4cmrhu1scv",
+  "permitted_roles": [
+   {
+    "parent": "4cmrhu1scv",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00003",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:29:32.807313",
+  "name": "4dgekqfv5l",
+  "permitted_roles": [
+   {
+    "parent": "4dgekqfv5l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00003",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:31:20.419321",
+  "name": "5f42e6ahrh",
+  "permitted_roles": [
+   {
+    "parent": "5f42e6ahrh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00004",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:31:23.342180",
+  "name": "5g1at9g07o",
+  "permitted_roles": [
+   {
+    "parent": "5g1at9g07o",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00004",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:33:08.977523",
+  "name": "6h1k4nd1ed",
+  "permitted_roles": [
+   {
+    "parent": "6h1k4nd1ed",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:33:11.294243",
+  "name": "6hod5pd3ts",
+  "permitted_roles": [
+   {
+    "parent": "6hod5pd3ts",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00005",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:33:45.669310",
+  "name": "6sg4dgu9gr",
+  "permitted_roles": [
+   {
+    "parent": "6sg4dgu9gr",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00006",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:33:47.784752",
+  "name": "6t5i2fugpb",
+  "permitted_roles": [
+   {
+    "parent": "6t5i2fugpb",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00006",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:37:15.224540",
+  "name": "8u0goa7rjl",
+  "permitted_roles": [
+   {
+    "parent": "8u0goa7rjl",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:37:49.749334",
+  "name": "98pq80vfft",
+  "permitted_roles": [
+   {
+    "parent": "98pq80vfft",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00007",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:38:32.191722",
+  "name": "9m1r3jtu5r",
+  "permitted_roles": [
+   {
+    "parent": "9m1r3jtu5r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:38:38.024200",
+  "name": "9nstq3pnrd",
+  "permitted_roles": [
+   {
+    "parent": "9nstq3pnrd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00008",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:38:47.924829",
+  "name": "9qvtf99rte",
+  "permitted_roles": [
+   {
+    "parent": "9qvtf99rte",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00008-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:38:49.926387",
+  "name": "9rjriuu4mu",
+  "permitted_roles": [
+   {
+    "parent": "9rjriuu4mu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00008-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:42:54.948877",
+  "name": "c8502i3fet",
+  "permitted_roles": [
+   {
+    "parent": "c8502i3fet",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:43:09.630500",
+  "name": "ccop6fdo0j",
+  "permitted_roles": [
+   {
+    "parent": "ccop6fdo0j",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:52:07.166753",
+  "name": "hknut5ute8",
+  "permitted_roles": [
+   {
+    "parent": "hknut5ute8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00042",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:55:18.371086",
+  "name": "jgfip3vmil",
+  "permitted_roles": [
+   {
+    "parent": "jgfip3vmil",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/62",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:55:20.112697",
+  "name": "jh1kpo62no",
+  "permitted_roles": [
+   {
+    "parent": "jh1kpo62no",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/62",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 11:55:53.184860",
+  "name": "jrbfpfomqu",
+  "permitted_roles": [
+   {
+    "parent": "jrbfpfomqu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Manager/HOD"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00042",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:06:16.279113",
+  "name": "pu20avfqf2",
+  "permitted_roles": [
+   {
+    "parent": "pu20avfqf2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00043",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:07:59.936452",
+  "name": "quft1p2e46",
+  "permitted_roles": [
+   {
+    "parent": "quft1p2e46",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/63",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:10:22.818949",
+  "name": "sb4imuvc96",
+  "permitted_roles": [
+   {
+    "parent": "sb4imuvc96",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/63",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:28:17.522546",
+  "name": "6qvhgs2s9r",
+  "permitted_roles": [
+   {
+    "parent": "6qvhgs2s9r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Manager/HOD"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00043",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:55:44.733155",
+  "name": "mtnoinokgm",
+  "permitted_roles": [
+   {
+    "parent": "mtnoinokgm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 12:55:48.255141",
+  "name": "muqhpbm07p",
+  "permitted_roles": [
+   {
+    "parent": "muqhpbm07p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:01:22.761920",
+  "name": "q7bq60ukqa",
+  "permitted_roles": [
+   {
+    "parent": "q7bq60ukqa",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00023",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:01:24.961311",
+  "name": "q818q53ugv",
+  "permitted_roles": [
+   {
+    "parent": "q818q53ugv",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00023",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:03:04.961395",
+  "name": "r79kp0d1ko",
+  "permitted_roles": [
+   {
+    "parent": "r79kp0d1ko",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00024",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:03:06.833141",
+  "name": "r7seic3rt5",
+  "permitted_roles": [
+   {
+    "parent": "r7seic3rt5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00024",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:04:10.163223",
+  "name": "rrluo5l4ik",
+  "permitted_roles": [
+   {
+    "parent": "rrluo5l4ik",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:04:13.997659",
+  "name": "rssmmssare",
+  "permitted_roles": [
+   {
+    "parent": "rssmmssare",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:10:36.089417",
+  "name": "vk8oeh7btk",
+  "permitted_roles": [
+   {
+    "parent": "vk8oeh7btk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:10:39.280142",
+  "name": "vl84vm1vog",
+  "permitted_roles": [
+   {
+    "parent": "vl84vm1vog",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Manager/HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-29 13:33:29.849119",
+  "name": "d1i032rbn2",
+  "permitted_roles": [
+   {
+    "parent": "d1i032rbn2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Manager/HOD"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:26:25.159981",
+  "name": "9rr4cdcpfn",
+  "permitted_roles": [
+   {
+    "parent": "9rr4cdcpfn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:26:30.196244",
+  "name": "9tdps8au86",
+  "permitted_roles": [
+   {
+    "parent": "9tdps8au86",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00010",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:49:32.893297",
+  "name": "ndhj2asr9j",
+  "permitted_roles": [
+   {
+    "parent": "ndhj2asr9j",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:49:36.440587",
+  "name": "nek3040ek9",
+  "permitted_roles": [
+   {
+    "parent": "nek3040ek9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00011",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:51:43.611819",
+  "name": "omc881r608",
+  "permitted_roles": [
+   {
+    "parent": "omc881r608",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00012",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:51:48.240998",
+  "name": "onq19ver6m",
+  "permitted_roles": [
+   {
+    "parent": "onq19ver6m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00012",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:52:54.063223",
+  "name": "pcc6dm337s",
+  "permitted_roles": [
+   {
+    "parent": "pcc6dm337s",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:52:59.764223",
+  "name": "pe5d37dtig",
+  "permitted_roles": [
+   {
+    "parent": "pe5d37dtig",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00013",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:54:43.835589",
+  "name": "qemdf74vt9",
+  "permitted_roles": [
+   {
+    "parent": "qemdf74vt9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:54:50.920458",
+  "name": "qgtgl12gk5",
+  "permitted_roles": [
+   {
+    "parent": "qgtgl12gk5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00014",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:58:47.767272",
+  "name": "squt11tinu",
+  "permitted_roles": [
+   {
+    "parent": "squt11tinu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/64",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:58:52.549778",
+  "name": "ssdk3q07pd",
+  "permitted_roles": [
+   {
+    "parent": "ssdk3q07pd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/64",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:59:12.521958",
+  "name": "t2la63mb9c",
+  "permitted_roles": [
+   {
+    "parent": "t2la63mb9c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/64-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 16:59:16.291342",
+  "name": "t3r78ut6bh",
+  "permitted_roles": [
+   {
+    "parent": "t3r78ut6bh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/64-1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:00:59.712204",
+  "name": "u45i61qj58",
+  "permitted_roles": [
+   {
+    "parent": "u45i61qj58",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00044",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:02:21.807798",
+  "name": "utqq6apb9c",
+  "permitted_roles": [
+   {
+    "parent": "utqq6apb9c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/65",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:02:27.688215",
+  "name": "uvlqdiveb8",
+  "permitted_roles": [
+   {
+    "parent": "uvlqdiveb8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/65",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Manager/HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:02:40.195137",
+  "name": "v3i1q0kaqd",
+  "permitted_roles": [
+   {
+    "parent": "v3i1q0kaqd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Manager/HOD"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00044",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:03:50.797466",
+  "name": "vpkf5cb8hg",
+  "permitted_roles": [
+   {
+    "parent": "vpkf5cb8hg",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00045",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:04:12.394419",
+  "name": "00chcutvb3",
+  "permitted_roles": [
+   {
+    "parent": "00chcutvb3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/66",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:04:15.925177",
+  "name": "01fpacen3i",
+  "permitted_roles": [
+   {
+    "parent": "01fpacen3i",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Pre Feasibility",
+  "reference_name": "AMPL/NPD/F/66",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Feasibility Check Ok ?"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:09:54.007869",
+  "name": "3b4ndev6gn",
+  "permitted_roles": [
+   {
+    "parent": "3b4ndev6gn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:10:01.572144",
+  "name": "3dftqv24ua",
+  "permitted_roles": [
+   {
+    "parent": "3dftqv24ua",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Sales Order",
+  "reference_name": "SAL-ORD-2025-00015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:17:58.424743",
+  "name": "82ghtmvq3n",
+  "permitted_roles": [
+   {
+    "parent": "82ghtmvq3n",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:18:05.793280",
+  "name": "84q80stlnt",
+  "permitted_roles": [
+   {
+    "parent": "84q80stlnt",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 17:31:01.008281",
+  "name": "fn2hbrtsli",
+  "permitted_roles": [
+   {
+    "parent": "fn2hbrtsli",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Lead",
+  "reference_name": "CRM-LEAD-2025-00046",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:19:35.126284",
+  "name": "ifn9tfdmf2",
+  "permitted_roles": [
+   {
+    "parent": "ifn9tfdmf2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:19:40.906194",
+  "name": "ihhla0p5ql",
+  "permitted_roles": [
+   {
+    "parent": "ihhla0p5ql",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:19:49.070828",
+  "name": "ik2hgj3vjh",
+  "permitted_roles": [
+   {
+    "parent": "ik2hgj3vjh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:20:00.690560",
+  "name": "inm1292s2p",
+  "permitted_roles": [
+   {
+    "parent": "inm1292s2p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:29:11.119024",
+  "name": "o3nf9bdjl8",
+  "permitted_roles": [
+   {
+    "parent": "o3nf9bdjl8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:29:14.772364",
+  "name": "o4r8a86grt",
+  "permitted_roles": [
+   {
+    "parent": "o4r8a86grt",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:30:23.175488",
+  "name": "oq75pt9b39",
+  "permitted_roles": [
+   {
+    "parent": "oq75pt9b39",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:33:25.946990",
+  "name": "qjbjkqrgbf",
+  "permitted_roles": [
+   {
+    "parent": "qjbjkqrgbf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:33:28.500878",
+  "name": "qk5s4jbe7m",
+  "permitted_roles": [
+   {
+    "parent": "qk5s4jbe7m",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:33:31.417695",
+  "name": "ql2bhf7jlm",
+  "permitted_roles": [
+   {
+    "parent": "ql2bhf7jlm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:33:36.301701",
+  "name": "qmjdjlhdt2",
+  "permitted_roles": [
+   {
+    "parent": "qmjdjlhdt2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:33:39.429256",
+  "name": "qniehn13p2",
+  "permitted_roles": [
+   {
+    "parent": "qniehn13p2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 20:56:43.789392",
+  "name": "885cn460eb",
+  "permitted_roles": [
+   {
+    "parent": "885cn460eb",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00030",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:02:56.048495",
+  "name": "bsgdfporo8",
+  "permitted_roles": [
+   {
+    "parent": "bsgdfporo8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:03:20.610539",
+  "name": "c468bher18",
+  "permitted_roles": [
+   {
+    "parent": "c468bher18",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:03:24.224348",
+  "name": "c5a8m8h4a8",
+  "permitted_roles": [
+   {
+    "parent": "c5a8m8h4a8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:04:27.337047",
+  "name": "cp1cknekkm",
+  "permitted_roles": [
+   {
+    "parent": "cp1cknekkm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:04:30.110278",
+  "name": "cptpmtmdcj",
+  "permitted_roles": [
+   {
+    "parent": "cptpmtmdcj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:04:36.303074",
+  "name": "crrf798vql",
+  "permitted_roles": [
+   {
+    "parent": "crrf798vql",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   },
+   {
+    "parent": "crrf798vql",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:05:40.095979",
+  "name": "dfp97fmho1",
+  "permitted_roles": [
+   {
+    "parent": "dfp97fmho1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00032",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:05:43.505574",
+  "name": "dgr5hk6jg1",
+  "permitted_roles": [
+   {
+    "parent": "dgr5hk6jg1",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00032",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:06:51.635840",
+  "name": "e64l33kevp",
+  "permitted_roles": [
+   {
+    "parent": "e64l33kevp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00033",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:06:55.138829",
+  "name": "e77m7e0tnh",
+  "permitted_roles": [
+   {
+    "parent": "e77m7e0tnh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00033",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:07:52.803882",
+  "name": "ep8jch2i15",
+  "permitted_roles": [
+   {
+    "parent": "ep8jch2i15",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:07:55.615872",
+  "name": "eq464d551c",
+  "permitted_roles": [
+   {
+    "parent": "eq464d551c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:07:58.880534",
+  "name": "er4bgolnli",
+  "permitted_roles": [
+   {
+    "parent": "er4bgolnli",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:08:02.751046",
+  "name": "esbgh7ote5",
+  "permitted_roles": [
+   {
+    "parent": "esbgh7ote5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:08:06.035340",
+  "name": "etccsn3id4",
+  "permitted_roles": [
+   {
+    "parent": "etccsn3id4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:08:10.444785",
+  "name": "euor8jm42g",
+  "permitted_roles": [
+   {
+    "parent": "euor8jm42g",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   },
+   {
+    "parent": "euor8jm42g",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00034",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:10:40.371409",
+  "name": "gdk21c5s41",
+  "permitted_roles": [
+   {
+    "parent": "gdk21c5s41",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00035",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:10:45.257789",
+  "name": "gf48egdrvo",
+  "permitted_roles": [
+   {
+    "parent": "gf48egdrvo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00035",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:14:55.777412",
+  "name": "itddl8tqtc",
+  "permitted_roles": [
+   {
+    "parent": "itddl8tqtc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:14:59.323202",
+  "name": "iuh1001t27",
+  "permitted_roles": [
+   {
+    "parent": "iuh1001t27",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:15:13.029061",
+  "name": "j2qbgok55p",
+  "permitted_roles": [
+   {
+    "parent": "j2qbgok55p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:15:16.599032",
+  "name": "j3uf52tmu9",
+  "permitted_roles": [
+   {
+    "parent": "j3uf52tmu9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:15:17.870524",
+  "name": "j4a37n74nc",
+  "permitted_roles": [
+   {
+    "parent": "j4a37n74nc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:15:20.834622",
+  "name": "j586ve5g5e",
+  "permitted_roles": [
+   {
+    "parent": "j586ve5g5e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   },
+   {
+    "parent": "j586ve5g5e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00036",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:05.260999",
+  "name": "lbcs04ssnc",
+  "permitted_roles": [
+   {
+    "parent": "lbcs04ssnc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Business HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:08.736829",
+  "name": "lcfi1qojsi",
+  "permitted_roles": [
+   {
+    "parent": "lcfi1qojsi",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Business HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending for approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:17.715593",
+  "name": "lf9cql3s5e",
+  "permitted_roles": [
+   {
+    "parent": "lf9cql3s5e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Quotation Approved"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Design HOD",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:20.257416",
+  "name": "lg2sj6b6nj",
+  "permitted_roles": [
+   {
+    "parent": "lg2sj6b6nj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Design HOD"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Check"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "Marketing Executive",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:23.841046",
+  "name": "lh6sfg42qp",
+  "permitted_roles": [
+   {
+    "parent": "lh6sfg42qp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Design Feasibility Approved"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-31 21:19:26.749848",
+  "name": "li4lkudq5u",
+  "permitted_roles": [
+   {
+    "parent": "li4lkudq5u",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   },
+   {
+    "parent": "li4lkudq5u",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "Marketing Executive"
+   }
+  ],
+  "reference_doctype": "Quotation",
+  "reference_name": "SAL-QTN-2025-00037",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Customer Approval"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-21 14:35:45.194531",
+  "name": "jgskbkc2n9",
+  "permitted_roles": [
+   {
+    "parent": "jgskbkc2n9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Gate Entry",
+  "reference_name": "GE-2025-08-0015",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Draft"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-21 14:35:48.977414",
+  "name": "ji1hugo6mp",
+  "permitted_roles": [
+   {
+    "parent": "ji1hugo6mp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Gate Entry",
+  "reference_name": "GE-2025-08-0015",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Submit"
+ }
+]
