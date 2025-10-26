@@ -16,13 +16,13 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Feasibility",
-   "options": "\nYes\nNo"
+   "options": "\nYes\nNo\nNA"
   },
   {
    "fieldname": "comment",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Comment"
+   "label": "Description"
   },
   {
    "fieldname": "checklist",
@@ -36,7 +36,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-08-25 14:14:55.941855",
+ "modified": "2025-10-24 17:01:09.360322",
  "modified_by": "Administrator",
  "module": "Aims Customization",
  "name": "Checklist Decision",
