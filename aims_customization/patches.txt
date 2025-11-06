@@ -17,3 +17,4 @@ aims_customization.patches.v_0.dia_field_mandatory_when_item_group_toolroolrm_ro
 aims_customization.patches.v_0.add_part_specification_tab_on_item
 aims_customization.patches.v_0.add_packing_details_tab_on_item
 aims_customization.patches.v_0.add_section_on_bom
+aims_customization.patches.v_0.add_rm_percentage_field_on_bom

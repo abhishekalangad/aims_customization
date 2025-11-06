@@ -251,11 +251,12 @@ after_migrate = [
     "aims_customization.patches.v_0.add_field_customer_approval_email_on_quotation.execute",
     "aims_customization.patches.v_0.add_customer_po_attachment_field_on_sales_order.execute",
     "aims_customization.patches.v_0.add_short_close_reason_field.execute",
-    "aims_customization.patches.v_0.add_mould_details_tab_on_item.execute",
+    # "aims_customization.patches.v_0.add_mould_details_tab_on_item.execute",
     # "aims_customization.patches.v_0.dia_field_mandatory_when_item_group_toolroolrm_round.execute"
     "aims_customization.patches.v_0.add_part_specification_tab_on_item.execute",
     "aims_customization.patches.v_0.add_packing_details_tab_on_item.execute",
-    "aims_customization.patches.v_0.add_section_on_bom.execute"
+    "aims_customization.patches.v_0.add_section_on_bom.execute",
+    "aims_customization.patches.v_0.add_rm_percentage_field_on_bom.execute"
     
     
     
