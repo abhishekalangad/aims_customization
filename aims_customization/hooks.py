@@ -258,7 +258,8 @@ after_migrate = [
     "aims_customization.patches.v_0.add_section_on_bom.execute",
     "aims_customization.patches.v_0.add_rm_percentage_field_on_bom.execute",
     "aims_customization.patches.v_0.add_pre_feasibility_item_field_on_lead.execute",
-    "aims_customization.patches.v_0.add_bom_type_field_on_bom.execute"
+    "aims_customization.patches.v_0.add_bom_type_field_on_bom.execute",
+    "aims_customization.patches.v_0.add_rework_and_checking_details.execute"
     
     
     
