@@ -8,7 +8,7 @@ def execute():
             "dt": "BOM Item",              # Doctype name
             "fieldname": "rm_percentage",  # Fieldname
             "label": "RM Percentage",      # Label
-            "fieldtype": "Data",            # Field Type
+            "fieldtype": "Percent",            # Field Type
             "insert_after": "item_code",   # Insert after item_code
             "in_list_view": 1           # ✅ Show in list view
                                 

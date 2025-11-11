@@ -37,10 +37,12 @@ def execute():
     # Step 3: Create custom fields under the section
     custom_fields = [
         
+        
         {
             "fieldname": "cavity",
             "label": "Cavity",
             "fieldtype": "Int",
+            
             "insert_after": "part_specification_section"
         },
         {
@@ -106,6 +108,13 @@ def execute():
             "fieldtype": "Select",
             "options": "\nYes\nNo",
             "insert_after": "bending"
+        },
+        {
+            "fieldname": "mould",
+            "label": "Mould",
+            "fieldtype": "Link",
+            "options": "Mould",
+            "insert_after": "part_specification_section"
         }
         
 
