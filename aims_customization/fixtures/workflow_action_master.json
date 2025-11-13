@@ -1,0 +1,128 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-19 10:39:52.440445",
+  "name": "Review",
+  "workflow_action_name": "Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-21 10:09:02.686035",
+  "name": "Draft",
+  "workflow_action_name": "Draft"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-28 15:37:54.169209",
+  "name": "Revised",
+  "workflow_action_name": "Revised"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-29 12:07:13.841234",
+  "name": "Forward for Approval",
+  "workflow_action_name": "Forward for Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-29 12:10:03.342437",
+  "name": "Feasibility Check",
+  "workflow_action_name": "Feasibility Check"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 12:30:09.521722",
+  "name": "Pending For Approval",
+  "workflow_action_name": "Pending For Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-21 13:29:14.373546",
+  "name": "Closed",
+  "workflow_action_name": "Closed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 11:06:15.640544",
+  "name": "Yes",
+  "workflow_action_name": "Yes"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 11:06:22.038768",
+  "name": "No",
+  "workflow_action_name": "No"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-28 13:58:54.056822",
+  "name": "Modify",
+  "workflow_action_name": "Modify"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-21 10:09:29.164826",
+  "name": "Submit",
+  "workflow_action_name": "Submit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 17:50:39.553870",
+  "name": "Closed Lead",
+  "workflow_action_name": "Closed Lead"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-28 13:55:21.799031",
+  "name": "Design Changes",
+  "workflow_action_name": "Design Changes"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 12:41:47.723267",
+  "name": "Dsign Feasibility Check",
+  "workflow_action_name": "Dsign Feasibility Check"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-28 13:48:04.315146",
+  "name": "Customer Approval",
+  "workflow_action_name": "Customer Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-28 13:44:19.136015",
+  "name": "Forwad for Approval",
+  "workflow_action_name": "Forwad for Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-19 10:39:52.439441",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-19 10:39:52.438634",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ }
+]
