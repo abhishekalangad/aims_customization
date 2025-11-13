@@ -275,7 +275,7 @@ doctype_js = {
     "Sales Order":"public/js/on_sales_order_hide_buttons_when_workflow_state_pending_for_approval.js",
     "Item":"public/js/fetched_cavity_from_mould_on_item.js",
     "BOM":"public/js/calculate_bom_quantity_based_on_gross_wt.js",
-    "Pre Feasibility":"public/js/store part_no on lead.js"
+    "Pre Feasibility":"public/js/store_part_no_on_lead.js"
     
     
     
