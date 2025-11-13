@@ -1,7 +1,4 @@
-# Copyright (c) 2025, Assimilate Technologies and contributors
-# For license information, please see license.txt
 
-# import frappe
 
 import frappe
  
@@ -61,8 +58,9 @@ def execute(filters=None):
     # SAME COLUMNS as Query Report
     columns = [
         
+        {"label": "Supplier", "fieldname": "supplier", "fieldtype": "Link", "options": "Supplier", "width": 150},
         {"label": "Item", "fieldname": "item_code", "fieldtype": "Link", "options": "Item", "width": 150},
-		{"label": "Supplier", "fieldname": "supplier", "fieldtype": "Link", "options": "Supplier", "width": 150},
+		
 		{"label": "Projected Quantity", "fieldname": "projected_qty", "fieldtype": "Float", "width": 150},
         {"label": "Description", "fieldname": "description", "fieldtype": "Data", "width": 150},
         

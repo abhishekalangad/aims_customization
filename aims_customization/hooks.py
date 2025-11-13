@@ -303,28 +303,83 @@ doc_events = {
 }
 
 
+# fixtures = [
+#     "Workflow", "Workflow State", "Workflow Action",
+#     {
+#         "doctype": "Role",
+#         "filters": [
+#             ["role_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+#         ]
+#     },
+    
+#     {
+#         "doctype": "Role Profile",
+#         "filters": [
+#             ["role_profile", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+#         ]
+#     },
+#     {
+#         "doctype": "Module Profile",
+#         "filters": [
+#             ["module_profile_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+#         ]
+#     }
+
+
+# ]
+
 fixtures = [
-    "Workflow", "Workflow State", "Workflow Action",
+    {
+        "doctype": "Workflow",
+        "filters": [
+            ["name", "in", [
+                "Quotation Workflow",
+                "Sales Order Workflow",
+                "Lead Workflow",
+                "Pre Feasibility Workflow"
+            ]]
+        ]
+    },
+    {
+        "doctype": "Workflow State",
+        
+    },
+    {
+        "doctype": "Workflow Action Master",
+        
+    },
     {
         "doctype": "Role",
         "filters": [
-            ["role_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+            ["role_name", "in", [
+                "Design HOD",
+                "Business HOD",
+                "Marketing Manager/HOD",
+                "Marketing Executive"
+            ]]
         ]
     },
-    
     {
         "doctype": "Role Profile",
         "filters": [
-            ["role_profile", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+            ["role_profile", "in", [
+                "Design HOD",
+                "Business HOD",
+                "Marketing Manager/HOD",
+                "Marketing Executive"
+            ]]
         ]
     },
     {
         "doctype": "Module Profile",
         "filters": [
-            ["module_profile_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+            ["module_profile_name", "in", [
+                "Design HOD",
+                "Business HOD",
+                "Marketing Manager/HOD",
+                "Marketing Executive"
+            ]]
         ]
     }
-
-
 ]
 
