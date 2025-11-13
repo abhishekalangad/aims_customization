@@ -14,7 +14,7 @@ function calculate_qty(frm, cdt, cdn) {
     let rm_percentage = row.rm_percentage || 0;
 
     // Calculate qty
-    row.qty = gross_wt * (rm_percentage/100);
+    row.qty = gross_wt * rm_percentage;
 
     // Refresh the field in the child table row
     frm.refresh_field("items");
