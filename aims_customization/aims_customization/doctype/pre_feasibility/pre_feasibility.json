@@ -21,9 +21,18 @@
   "feasibility_template",
   "checklist_section",
   "table_zdyu",
+  "feasibility_checklist",
   "section_break_zmax",
   "prepared_by",
   "column_break_ncoh",
+  "approved_by_",
+  "section_break_gjla",
+  "rno",
+  "column_break_xlcn",
+  "date_of_change",
+  "column_break_ofnz",
+  "revised_by",
+  "column_break_mbcb",
   "approved_by"
  ],
  "fields": [
@@ -56,7 +65,8 @@
   {
    "fieldname": "issue_date",
    "fieldtype": "Date",
-   "label": "Issue Date"
+   "label": "Issue Date",
+   "options": "Today"
   },
   {
    "fieldname": "rev_nodate",
@@ -70,7 +80,8 @@
   {
    "fieldname": "enquiry_ref",
    "fieldtype": "Date",
-   "label": "Enquiry Ref.\t"
+   "label": "Enquiry Ref.\t",
+   "options": "Today"
   },
   {
    "fieldname": "part_no",
@@ -93,6 +104,7 @@
   {
    "fieldname": "table_zdyu",
    "fieldtype": "Table",
+   "hidden": 1,
    "label": "Feasibility Checklist",
    "options": "Checklist Decision"
   },
@@ -104,10 +116,8 @@
    "default": "Pre Feasibility Checklist",
    "fieldname": "feasibility_template",
    "fieldtype": "Link",
-   "hidden": 1,
    "label": "Feasibility Template",
-   "options": "Checklist Template",
-   "read_only": 1
+   "options": "Checklist Template"
   },
   {
    "fieldname": "lead",
@@ -125,22 +135,64 @@
    "fieldtype": "Column Break"
   },
   {
+   "fieldname": "prepared_by",
+   "fieldtype": "Data",
+   "label": "Prepared By",
+   "read_only": 1
+  },
+  {
+   "fieldname": "approved_by_",
+   "fieldtype": "Data",
+   "label": "Approved By"
+  },
+  {
+   "fieldname": "section_break_gjla",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "rno",
+   "fieldtype": "Int",
+   "label": "R.No."
+  },
+  {
+   "fieldname": "column_break_xlcn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "date_of_change",
+   "fieldtype": "Date",
+   "label": "Date of Change"
+  },
+  {
+   "fieldname": "column_break_ofnz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "revised_by",
+   "fieldtype": "Data",
+   "label": "Revised By"
+  },
+  {
+   "fieldname": "column_break_mbcb",
+   "fieldtype": "Column Break"
+  },
+  {
    "fieldname": "approved_by",
    "fieldtype": "Data",
    "label": "Approved By"
   },
   {
-   "fieldname": "prepared_by",
-   "fieldtype": "Data",
-   "label": "Prepared By",
-   "read_only": 1
+   "fieldname": "feasibility_checklist",
+   "fieldtype": "Table",
+   "label": "Feasibility Checklist",
+   "options": "Checklist Decision"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-08-26 14:01:20.419100",
+ "modified": "2025-10-29 15:23:08.490917",
  "modified_by": "Administrator",
  "module": "Aims Customization",
  "name": "Pre Feasibility",

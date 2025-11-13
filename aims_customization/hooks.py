@@ -251,6 +251,17 @@ after_migrate = [
     "aims_customization.patches.v_0.add_field_customer_approval_email_on_quotation.execute",
     "aims_customization.patches.v_0.add_customer_po_attachment_field_on_sales_order.execute",
     "aims_customization.patches.v_0.add_short_close_reason_field.execute",
+    # "aims_customization.patches.v_0.add_mould_details_tab_on_item.execute",
+    # "aims_customization.patches.v_0.dia_field_mandatory_when_item_group_toolroolrm_round.execute"
+    "aims_customization.patches.v_0.add_part_specification_tab_on_item.execute",
+    "aims_customization.patches.v_0.add_packing_details_tab_on_item.execute",
+    "aims_customization.patches.v_0.add_section_on_bom.execute",
+    "aims_customization.patches.v_0.add_rm_percentage_field_on_bom.execute",
+    "aims_customization.patches.v_0.add_pre_feasibility_item_field_on_lead.execute",
+    "aims_customization.patches.v_0.add_bom_type_field_on_bom.execute",
+    "aims_customization.patches.v_0.add_rework_and_checking_details.execute"
+    
+    
     
     
     
@@ -260,8 +271,12 @@ doctype_js = {
     "public/js/workflow_state_submitand_closed_hide_feasibility_button.js",
     "public/js/hide_workflow_action_closed_lead.js",
     "public/js/short_close_field_show_only_feasibility_reject.js"],
-    "Pre Feasibility":"public/js/fetched_current_login_user_name_on_preparedby_field_on_pre_feasibility.js",
-    "Sales Order":"public/js/on_sales_order_hide_buttons_when_workflow_state_pending_for_approval.js"
+    "Pre Feasibility":["public/js/fetched_current_login_user_name_on_preparedby_field_on_pre_feasibility.js","public/js/prefeasibility_template.js"],
+    "Sales Order":"public/js/on_sales_order_hide_buttons_when_workflow_state_pending_for_approval.js",
+    "Item":"public/js/fetched_cavity_from_mould_on_item.js",
+    "BOM":"public/js/calculate_bom_quantity_based_on_gross_wt.js",
+    "Pre Feasibility":"public/js/store part_no on lead.js"
+    
     
     
     
@@ -286,3 +301,30 @@ doc_events = {
 
     
 }
+
+
+fixtures = [
+    "Workflow", "Workflow State", "Workflow Action",
+    {
+        "doctype": "Role",
+        "filters": [
+            ["role_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    },
+    
+    {
+        "doctype": "Role Profile",
+        "filters": [
+            ["role_profile", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    },
+    {
+        "doctype": "Module Profile",
+        "filters": [
+            ["module_profile_name", "in", ["Design HOD", "Business HOD", "Marketing Manager/HOD", "Marketing Executive"]]
+        ]
+    }
+
+
+]
+
