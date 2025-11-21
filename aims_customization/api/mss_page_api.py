@@ -145,7 +145,6 @@ def get_items_for_sales_orders(so_list=None):
         item_attrs = frappe.db.get_value("Item", line.item_code, ["cavity","pcs_wt","runner_wt","shot_wt","weight_per_unit"], as_dict=True) or {}
 
         result.append({
-            "name": line.name,
             "so_name": line.so_name,
             "item_code": line.item_code,
             "item_name": line.item_name,
@@ -179,45 +178,66 @@ def get_items_for_sales_orders(so_list=None):
         })
     return result
 
-# ---------------- LEVEL 3: Get BOMs for a list of items (SQL-friendly) ----------------
+# ---------------- LEVEL 3: Get BOMs for selected items ----------------
 @frappe.whitelist()
 def get_boms_for_items(items=None):
     """
-    items: JSON array of {item_code, qty, so, bom_no}
-    returns list of BOM entries with bom_items and required_for_selected_qty
+    Fetch BOMs for given items.
+
+    items: JSON array of {item_code, required_for_selected_qty, bom_no}
+    Returns list of BOM entries with bom_items and required_for_selected_qty
     """
-    if not items: return []
+    frappe.errprint(f"get_boms_for_items called with items: {items}")
+
+    if not items:
+        return []
+
     if isinstance(items, str):
-        try: items = json.loads(items)
-        except Exception: items = []
+        try:
+            items = json.loads(items)
+        except Exception as e:
+            frappe.log_error(f"Failed to parse items JSON: {e}", "get_boms_for_items")
+            items = []
 
     result = []
+
     for it in items:
         item_code = it.get("item_code")
-        required_qty = float(it.get("qty") or 0)
+        required_qty = float(it.get("required_for_selected_qty") or 0)
         forced_bom = it.get("bom_no") or None
 
-        # choose BOMs
-        boms = []
+        # Fetch BOM(s) for this item
         if forced_bom:
-            b = frappe.db.sql("""SELECT name as bom_no, item as item, quantity as bom_qty FROM `tabBOM` WHERE name=%s LIMIT 1""", (forced_bom,), as_dict=True)
-            boms = b or []
+            boms = frappe.get_all(
+                "BOM",
+                filters={"name": forced_bom},
+                fields=["name as bom_no", "item as item", "quantity as bom_qty"],
+                limit_page_length=1
+            )
         else:
-            b = frappe.db.sql("""SELECT name as bom_no, item as item, quantity as bom_qty FROM `tabBOM` WHERE item=%s AND is_active=1""", (item_code,), as_dict=True)
-            boms = b or []
+            boms = frappe.get_all(
+                "BOM",
+                filters={"item": item_code, "is_active": 1},
+                fields=["name as bom_no", "item as item", "quantity as bom_qty"]
+            )
 
         for b in boms:
-            # fetch bom items
-            bom_items = frappe.db.sql("""SELECT item_code as rm_item_code, item_name, stock_qty as qty_per_bom FROM `tabBOM Item` WHERE parent=%s ORDER BY idx""", (b.bom_no,), as_dict=True) or []
-            # compute required_for_selected_qty (scale by required_qty)
-            # required_for_selected_qty = required_qty (we keep that for clarity)
+            # Fetch BOM Items
+            bom_items = frappe.get_all(
+                "BOM Item",
+                filters={"parent": b["bom_no"]},
+                fields=["item_code as rm_item_code", "item_name", "stock_qty as qty_per_bom"],
+                order_by="idx"
+            )
+
             result.append({
                 "item_code": item_code,
-                "bom_no": b.bom_no,
+                "bom_no": b.get("bom_no"),
                 "bom_qty": b.get("bom_qty") or 0,
                 "bom_items": bom_items,
                 "required_for_selected_qty": required_qty
             })
+
     return result
 
 # ---------------- LEVEL 4: Raw materials for selected BOMs (aggregated) ----------------
