@@ -38,7 +38,7 @@ function get_layout_html() {
                 <option>Jul</option><option>Aug</option><option>Sep</option><option>Oct</option><option>Nov</option><option>Dec</option>
             </select></div>
             <div class="col-md-1"><label>Year</label><select id="filter-year" class="form-control"><option value="">--</option>${get_year_options()}</select></div>
-        </div>
+        </div> 
         <button class="btn btn-primary mt-3" onclick="load_sales_orders(true)">Apply Filters</button>
     </div>
 

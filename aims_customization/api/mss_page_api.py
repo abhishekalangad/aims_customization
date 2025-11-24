@@ -290,7 +290,7 @@ def get_raw_materials_for_boms(boms=None):
         })
     return res
 
-# ---------------- LEVEL 5: Work Orders aggregated for selected Sales Orders ----------------
+# ---------------- LEVEL 5: Work Orders aggregated for  selected Sales Orders ----------------
 @frappe.whitelist()
 def get_work_orders_for_sales_orders(so_list=None):
     if not so_list: return []
