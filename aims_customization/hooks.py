@@ -259,10 +259,10 @@ after_migrate = [
     "aims_customization.patches.v_0.add_bom_type_field_on_bom.execute",
     "aims_customization.patches.v_0.add_rework_and_checking_details.execute",
     "aims_customization.patches.v_0.change_the_datatype_qty_field_on_bomitem_from_float_to_data.execute",
-   
     "aims_customization.patches.v_0.add_status_for_design_feasibility_on_quotation.execute",
     "aims_customization.patches.v_0.add_mould_detail_tab_on_item_master.execute",
-    "aims_customization.patches.v_0.add_is_mold_item_field_on_item.execute"
+    "aims_customization.patches.v_0.add_is_mold_item_field_on_item.execute",
+    "aims_customization.patches.v_0.add_supplier_code_in_supplier_details.execute"
     
     
     
